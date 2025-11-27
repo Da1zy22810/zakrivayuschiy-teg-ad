@@ -1,0 +1,14 @@
+:root {
+  --accent-color: #000;
+  --main-font: Inter-Variable;
+  --accent-font: PressStart2P-Regular;
+  --card__title-font-weight: 700;
+  --card__text-font-weight: 400;
+  --header__height: clamp(330px, 38vh, 50vh);
+  --header__font-size: clamp(3.1rem, 2.7rem + 1.6vw, 4.1rem);
+  --header__text-font-size: clamp(0.9rem, 0.7rem + 0.9vw, 1.4rem);
+  --contour__color: #000;
+  --core__color: none;
+  --main__body-color: none;
+  --sparks__color: none;
+}
